@@ -1,0 +1,17 @@
+.displayCart{
+    display: flex;
+    /* background-color: green; */
+    width: 90%;
+    margin-bottom: 2px;
+    height: 60px;
+    margin-left: 77px;
+   
+}
+.displayCart img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.displayCart p{
+    margin-left: 10px;
+}
